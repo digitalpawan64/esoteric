@@ -551,6 +551,7 @@ padding: 30px 63px 80px 150px;
 }
 .latest-content h2{
  /* margin-bottom: 60px;*/
+ line-height: 80px!important;
 }
 .latest-content .latest-btn{
   font-size: 18px;
