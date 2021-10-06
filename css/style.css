@@ -505,7 +505,7 @@ h4 {
 
 .discover-box-2{
 background: url(../dis2.png);
-background-repeat: repeat;
+background-repeat: no-repeat;
 background-size: cover;
 
 }
