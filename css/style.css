@@ -1097,6 +1097,9 @@ h4 {
   height: auto;
 }
 
+.pricing, .feature {
+  padding: 0px; 
+}
 
 .member {
     display: flex;
