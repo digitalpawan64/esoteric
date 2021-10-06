@@ -301,7 +301,7 @@ h4 {
   border: 2px #5ad5f9 solid ;
 }
 
-.hero-content .watch-btn:hover{
+.hero-content .watch-btn:hover a{
   background: #5ad5f9!important;
   /*border: 2px #2b2d86 solid ;*/
   color: #2b2d86;
