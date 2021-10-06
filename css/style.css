@@ -761,6 +761,7 @@ padding: 30px 63px 80px 145px;
 .footer{
   display: flex;
   justify-content: space-between;
+  margin-top: 20px;
 }
 
 .footer-menu ul{
@@ -776,7 +777,7 @@ padding: 30px 63px 80px 145px;
 }
 
 .footer-menu ul li .active{
-  padding: 100px 0;
+  padding: 98px 0 82px 0;
   background: #1b1b1b;
 
 }
