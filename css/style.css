@@ -1061,8 +1061,8 @@ h2{
 }
 .discover-box-1 ,.discover-box-2{
   
-    min-width: 500px;
-    min-height: 240px;
+    max-width: 500px;
+    max-height: 240px;
 
   /*width: auto;
   height: auto;*/
