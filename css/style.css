@@ -147,7 +147,7 @@ h4 {
 
  .nav .nav-links ul span.icon{
  margin-left: 160px;
- margin-right: 10px;
+ margin-right: 0px!important;
  }
 
  /*.nav .nav-links ul a i{
@@ -935,7 +935,7 @@ h2{
 }
 .nav .nav-links ul span.icon {
     margin-left: 0px; 
-      /*margin-right: 10px; */
+      margin-right: 0px!important; 
 }
 .menu-login-btn {
     padding: 20px 40px;  
