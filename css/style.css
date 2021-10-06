@@ -906,9 +906,10 @@ h2{
       margin-right: 10px; 
 }
 .menu-login-btn {
-    
-    padding: 30px 55px;
-    
+    padding: 20px 40px;  
+}
+.menu-member-btn {
+    padding: 20px 40px;  
 }
 
 .latest-float-left {
