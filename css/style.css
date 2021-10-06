@@ -913,6 +913,12 @@ h2{
 .latest-float-left {
     display: none;
 }
+
+.active-nav {
+     padding: 10px 0px!important; 
+    background-color: #5ad5f9;
+    color: #1f0369!important;
+}
 .hero {
     display: flex;
     align-items: center;
