@@ -1112,11 +1112,13 @@ h4 {
     margin-top: 100px;
 }
 
-.member-content h2{
+.member-content h2 {
   font-size: 36px;
-  /*white-space: nowrap;
-    margin-top: 74px;*/
+    margin: 10px 0 12px 0;
+    line-height: 61px;
 }
+
+
 .member-content {
      margin-top: 0px; 
 }
@@ -1140,6 +1142,7 @@ h4 {
 .footer-menu {
      margin-right: 0px; 
 }
+
 
 
 
