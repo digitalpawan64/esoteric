@@ -300,6 +300,11 @@ h4 {
   border: 2px #5ad5f9 solid ;
 }
 
+.hero-content .watch-btn:hover{
+  background: #fff;
+  border: 2px #5ad5f9 solid ;
+}
+
 .hero-content .watch-btn{
   font-size: 18px;
   background: transparent;
