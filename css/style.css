@@ -1147,5 +1147,9 @@ h4 {
 .latest-row div img {
     width: 350px;
 }
+
+.footer-logo img{
+  width: 160px;
+}
 }
 
