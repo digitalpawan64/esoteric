@@ -907,9 +907,13 @@ h2{
 }
 .menu-login-btn {
     padding: 20px 40px;  
+    margin: 5px auto;
+    display: block;
 }
 .menu-member-btn {
     padding: 20px 40px;  
+    margin: 5px auto;
+    display: block;
 }
 
 .latest-float-left {
