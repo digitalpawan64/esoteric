@@ -919,6 +919,13 @@ h2{
     background-color: #5ad5f9;
     color: #1f0369!important;
 }
+
+.nav > .nav-links > ul li {
+    
+     margin: 0px; 
+}
+
+
 .hero {
     display: flex;
     align-items: center;
