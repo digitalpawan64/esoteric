@@ -708,7 +708,7 @@ padding: 30px 63px 80px 150px;
   text-decoration: none;
   padding: 20px 60px;
   border: 3px solid #fff;
-  margin: 20px;
+  /*margin: 20px;*/
   position: relative;
   letter-spacing: 1px;
 }
