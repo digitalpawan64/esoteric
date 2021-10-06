@@ -1094,6 +1094,7 @@ h4 {
   width: auto;
   margin: 20px auto;
   padding: 30px;
+  height: auto;
 }
 
 
@@ -1109,7 +1110,7 @@ h4 {
 
 .member-image img {
     width: 340px;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .member-content h2 {
@@ -1131,7 +1132,7 @@ h4 {
     flex-direction: column;
 }
 .footer-top {
-    height: 941px;
+    height: 800px;
     padding: 50px 0
 }
 
