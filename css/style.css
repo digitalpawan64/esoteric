@@ -1003,7 +1003,7 @@ h2{
 
 .discover-box-1 {
     width: 100%;
-    height: fit-content;
+    height: auto;
 }
 
 .discover-content h3 {
