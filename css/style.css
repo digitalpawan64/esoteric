@@ -1133,6 +1133,10 @@ h2{
     
 }
 
+.latest-float-right-2{
+  display: none;
+}
+
 
 }
 @media only screen and (max-width: 1040px){
