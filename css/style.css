@@ -1249,6 +1249,10 @@ br{
 }
 
 .discover-box-1{
+  background-image: all;
+}
+
+.discover-box-1{
     box-sizing: content-box;
     display: flex;
     margin: 10px auto;
