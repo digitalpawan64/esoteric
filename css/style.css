@@ -596,7 +596,7 @@ padding: 30px 63px 80px 145px;
 
 .latest-float-left {
     position: absolute;
-    top: 1182px;
+    top: 1090px;
     left: 0px;
     
 }
@@ -611,7 +611,7 @@ padding: 30px 63px 80px 145px;
 .latest-float-right-2{
   position: absolute;
     top: 2820px;
-    right: 150px;
+    right: 130px;
     z-index: 1;
 }
 
@@ -630,7 +630,7 @@ padding: 30px 63px 80px 145px;
 
 
 .latest-content{
-  margin-right: 130px;
+  margin-right: 145px;
   margin-top: 40px;
 }
 
@@ -647,7 +647,7 @@ padding: 30px 63px 80px 145px;
 .latest-content .latest-btn{
   font-size: 18px;
   background: transparent;
-  padding: 17px 58px;
+  padding: 22px 58px;
   color: #5ad5f9;
   margin: 35px 0 50px 0;
 
@@ -728,11 +728,12 @@ padding: 30px 63px 80px 145px;
   padding-top: 100px!important;
   text-align: center;
   margin-bottom: 50px;
+  line-height: 0;
 }
 .pricing-heading h5{
   font-size: 22px;
   color: #ff3b6c;
-  /*margin-bottom: 10px;*/
+  margin-bottom: 22px;
 }
 
 .pricing-box-1{
@@ -815,7 +816,7 @@ padding: 30px 63px 80px 145px;
   display: inline-block;
   text-transform: uppercase;
   text-decoration: none;
-  padding: 17px 65px;
+  padding: 22px 65px;
   border: 3px solid #fff;
   /*margin: 20px;*/
   position: relative;
