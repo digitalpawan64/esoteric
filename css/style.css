@@ -1511,4 +1511,12 @@ br{
     margin-left: 0px;
 }
 
+.footer-top {
+    height: auto;
+    padding: 50px 0;
+}
+.footer-menu ul {
+    
+    flex-direction: column;
+}
 }
