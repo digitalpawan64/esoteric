@@ -1522,3 +1522,9 @@ br{
 }
 }
 
+@media only screen and (max-width: 768px){
+.member {
+    padding: 0px 20px 0 20px;
+}
+
+}
