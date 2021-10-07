@@ -1063,6 +1063,8 @@ h2{
   width: 700px;
 }
 
+
+
 .footer-container{
   margin-top: 60px;
 }
@@ -1107,6 +1109,18 @@ h2{
 
 }
 
+
+@media only screen and (max-width: 100px){
+
+.hero-img img {
+    width: 480px;
+}
+
+.hero-content h1{
+  font-size: 44px;
+}
+
+}
 
 
 @media only screen and (max-width: 768px){
