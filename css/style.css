@@ -182,12 +182,13 @@ h4 {
     margin-left: 5px;
  }
 */
-.menu-login-btn a,.menu-member-btn a {
+.menu-login-btn a{
    text-decoration: none;
    color: #fff; 
 }
 
 .menu-member-btn a {
+  text-decoration: none;
   color: #2b2d86!important;
 }
 
