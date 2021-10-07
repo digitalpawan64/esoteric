@@ -1007,6 +1007,13 @@ h2{
     left: 0px;
 }
 
+.latest-float-right {
+    position: absolute;
+    top: 1792px;
+    right: 0px;
+    z-index: 1;
+}
+
 .discover-box-1 {
     width: 100%;
     height: auto;
