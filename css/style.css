@@ -509,6 +509,7 @@ h4 {
 background: url(../dis2.png);
 background-repeat: no-repeat;
 background-size: cover;
+margin: 0 20px;
 
 }
 
@@ -552,7 +553,7 @@ background-size: cover;
   height: 240px;
   box-sizing: content-box;
   display: flex;
-  margin: 0 20px;
+  
   z-index: 2;
   position: relative;
 
