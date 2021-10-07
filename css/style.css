@@ -1207,7 +1207,13 @@ h2{
 .latest-float-right{
   display: none;
 }
+.flex-box{
+  padding: 10px;
+}
 
+.discover-content h3{
+font-size: 22px;
+}
 }
 
 @media only screen and (max-width: 768px){
