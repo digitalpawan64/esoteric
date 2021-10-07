@@ -1479,6 +1479,7 @@ br{
     align-items: center;
     overflow: hidden;
     flex-direction: column;
+    margin-top: 0;
 }
 .footer-top {
     height: 700px;
