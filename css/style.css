@@ -1119,6 +1119,11 @@ h2{
 .hero-content h1{
   font-size: 44px;
 }
+.hero-content p {
+    
+    font-size: 20px;
+    
+}
 
 }
 
