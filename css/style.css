@@ -1375,6 +1375,10 @@ br{
 .footer-menu {
      margin-right: 0px; 
 }
+.footer-menu ul li a:hover {
+    padding: 10px 5px 10px 5px;
+    background: #1b1b1b;
+}
 
 
 
