@@ -1219,6 +1219,10 @@ h2{
 .discover-content h3{
 font-size: 22px;
 }
+
+.discover-box-2 {
+        margin: 0 20px;
+}
 }
 
 @media only screen and (max-width: 768px){
