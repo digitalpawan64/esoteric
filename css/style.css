@@ -513,7 +513,7 @@ h4 {
 .discover-box2{
   display: flex;
   justify-content: center;
-  margin-top: 50px;
+  
 }
 
 .discover-box-1{
@@ -1139,6 +1139,17 @@ h2{
 .discover-box-2 {
         margin: 0 20px;
 }
+
+.discover-container-2{
+  margin: 20px 0!important;
+}
+
+.discover-box-4{
+ margin-right: 10px;
+}
+.discover-box-5{
+ margin-left: 10px;
+}
 }
 
 @media only screen and (max-width: 970px){
@@ -1201,7 +1212,7 @@ h2{
 }
 
 
-@media only screen and (max-width: 900px){
+@media only screen and (max-width: 960px){
 .social-icons {
     margin-left: -95px;
 }
