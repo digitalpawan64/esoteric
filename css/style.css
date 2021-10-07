@@ -523,12 +523,14 @@ background-size: cover;
 background: url(../dis4.png);
 background-repeat: no-repeat;
 background-size: cover;
+margin-right: 20px;
 }
 
 .discover-box-5{
 background: url(../dis5.png);
 background-repeat: no-repeat;
 background-size: cover;
+margin-left: 20px;
 }
 
 
