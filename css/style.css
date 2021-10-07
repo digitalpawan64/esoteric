@@ -1211,6 +1211,11 @@ h2{
   padding: 10px;
 }
 
+.discover {
+    padding: 100px 0;
+    background: #050401;
+}
+
 .discover-content h3{
 font-size: 22px;
 }
