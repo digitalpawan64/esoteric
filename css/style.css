@@ -1234,6 +1234,7 @@ br{
 .discover-box{
     display: flex;
     flex-direction: column!important;
+    padding:0 20px;
     
 }
 
@@ -1251,6 +1252,7 @@ br{
     margin-top: 0px!important;
    /* width: 500px;*/
     flex-direction: column;
+    padding:0 20px;
     
 
 }
