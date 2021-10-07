@@ -1194,8 +1194,12 @@ h2{
     width: 500px;
 }
 
+.member {
+    padding: 70px 20px 0 20px;
+}
+
 .footer {
-    margin-top: 201px;
+    margin-top: 131px;
 }
 
 .social-icons {
