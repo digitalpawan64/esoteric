@@ -222,7 +222,7 @@ h4 {
     background-color: #140146;
 }
 
-  @media (max-width:1200px) {
+  @media (max-width:1230px) {
     .nav > .nav-btn {
       display: inline-block;
       position: absolute;
