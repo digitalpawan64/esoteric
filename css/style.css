@@ -268,8 +268,8 @@ h4 {
         display: block;
         margin-bottom: 20px;
         padding: 0;
-        background-color: #111;
-
+        /*background-color: #111;
+*/
       }
       .nav > .nav-links > ul li a{
           margin-left: 40%;
@@ -1506,7 +1506,7 @@ br{
 }
 .footer-top {
     height: 700px;
-    padding: 50px 0
+   /* padding: 50px 0*/
 }
 
 .footer-menu ul li .active {
