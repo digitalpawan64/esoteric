@@ -1133,10 +1133,12 @@ h2{
     
 }
 
-/*.member-image img {
-    width: 540px;
-}*/
 
+}
+@media only screen and (max-width: 1040px){
+.discover-box-2 {
+        margin: 0 20px;
+}
 }
 
 @media only screen and (max-width: 970px){
@@ -1197,7 +1199,9 @@ h2{
 }
 
 }
-@media only screen and (max-width: 970px){
+
+
+@media only screen and (max-width: 900px){
 .social-icons {
     margin-left: -95px;
 }
@@ -1220,9 +1224,6 @@ h2{
 font-size: 22px;
 }
 
-.discover-box-2 {
-        margin: 0 20px;
-}
 }
 
 @media only screen and (max-width: 768px){
