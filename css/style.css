@@ -1310,7 +1310,7 @@ br{
 
 }
 .discover-box-2{
-  margin: 0;
+  margin: 0!important;
 }
 .discover {
     padding: 50px 0;
