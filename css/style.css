@@ -509,7 +509,7 @@ h4 {
 background: url(../dis2.png);
 background-repeat: no-repeat;
 background-size: cover;
-margin: 0 20px;
+margin: 0 50px;
 
 }
 
@@ -523,14 +523,14 @@ background-size: cover;
 background: url(../dis4.png);
 background-repeat: no-repeat;
 background-size: cover;
-margin-right: 10px;
+margin-right: 25px;
 }
 
 .discover-box-5{
 background: url(../dis5.png);
 background-repeat: no-repeat;
 background-size: cover;
-margin-left: 10px;
+margin-left: 25px;
 }
 
 
