@@ -1072,17 +1072,17 @@ h2{
 .latest-row div img{
   width: 780px;
 }
-/*.discover-content {
-    padding: 40px 18px 44px 118px;
-}*/
-
 .discover-content {
-    padding: 20px 20px 20px 20px;
+    padding: 40px 18px 44px 118px;
 }
-.discover-box-1{
+
+/*.discover-content {
+    padding: 20px 20px 20px 20px;
+}*/
+/*.discover-box-1{
   background-image:none;
   background-color: #111111;
-}
+}*/
 .discover-content h3 {
     font-size: 30px;
     color: #fff;
@@ -1248,9 +1248,6 @@ br{
     
 }
 
-.discover-box-1{
-  background-image:aliceblue;
-}
 
 .discover-box-1{
     box-sizing: content-box;
