@@ -957,7 +957,9 @@ h1{
   font-size: 70px!important;
 }
 .hero-img img{
-  width: 695px;
+  /*width: 695px;*/
+  width: 100%;
+  height: auto;
 }
 .hero{
   padding: 100px 50px;
