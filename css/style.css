@@ -1110,7 +1110,7 @@ h2{
 }
 
 
-@media only screen and (max-width: 100px){
+@media only screen and (max-width: 1150px){
 
 .hero-img img {
     width: 480px;
