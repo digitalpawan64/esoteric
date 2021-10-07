@@ -1080,7 +1080,7 @@ h2{
     padding: 20px 20px 20px 20px;
 }
 .discover-box-1{
-  background-image: none;
+  background-image:none;
   background-color: #111111;
 }
 .discover-content h3 {
@@ -1249,7 +1249,7 @@ br{
 }
 
 .discover-box-1{
-  background-image: all!important;
+  background-image:initial;
 }
 
 .discover-box-1{
