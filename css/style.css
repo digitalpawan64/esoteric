@@ -1264,7 +1264,14 @@ font-size: 22px;
 }
 
 .footer {
-    margin-top: 85px;
+    margin-top: 140px;
+}
+.member-image img {
+    width: 455px;
+}
+.member-content {
+   
+    padding-left: 10px;
 }
 }
 
