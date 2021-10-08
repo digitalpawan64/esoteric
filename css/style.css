@@ -1154,6 +1154,19 @@ h2{
 .discover-box-5{
  margin-left: 10px;
 }
+
+.member-content {
+  
+    padding-left: 20px;
+}
+
+
+.footer {
+    margin-top: 136px;
+}
+.footer-menu {
+    margin-right: 0px;
+}
 }
 
 @media only screen and (max-width: 970px){
