@@ -1167,6 +1167,12 @@ h2{
 
 }
 
+@media only screen and (max-width: 1039px){
+.footer {
+    margin-top: 73px;
+}
+}
+
 @media only screen and (max-width: 970px){
 .latest-float-left {
     display: none;
