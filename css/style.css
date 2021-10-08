@@ -1213,6 +1213,13 @@ h2{
     margin-left: -30px;
 }
 
+.pricing-heading {
+    padding: 50px 0px!important;
+    text-align: center;
+     margin-bottom: 0px; 
+    line-height: 0;
+}
+
 }
 
 
@@ -1242,6 +1249,8 @@ font-size: 22px;
 .footer-menu ul li .active{
   padding: 0;
 }
+
+
 
 }
 
