@@ -1031,6 +1031,10 @@ h2{
 .pricing,.feature{
   padding: 50px;
 }
+
+.latest-float-right-2{
+  display: none;
+}
 .member{
   padding: 0 20px;
 }
@@ -1617,10 +1621,19 @@ br{
   width: 160px;
 }
 }
+@media only screen and (max-width: 700px){
+.member {
+    padding: 35px 20px 0 20px;
+}
+}
 
 @media only screen and (max-width: 400px){
 .member {
     padding: 0px 20px 0 20px;
+}
+
+.member-content h2 {
+    font-size: 32px!important;
 }
 
 .social-icons {
@@ -1629,10 +1642,16 @@ br{
 
 .footer-top {
     height: auto;
-    padding: 50px 0;
+    padding: 20px 0;
 }
 .footer-menu ul {
     
     flex-direction: column;
 }
+
+.footer-top{
+  background-image: none;
+  background-color: #1b1b1b;
 }
+}
+
